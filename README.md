@@ -10,4 +10,4 @@ This repository contains exercises for Course _Machine Learning_ by _Andrew Ng_ 
 - Recommender System.
 
 ## Resources
-- Client-Server Model: [Click Here](https://www.coursera.org/learn/machine-learning)
+- Machine Learning Coursera: [Click Here](https://www.coursera.org/learn/machine-learning)
